@@ -1,0 +1,4 @@
+(( ... )) will perform a calculation or operation and output nothing. $(( ... )) will replace the calculation with the result of it. 
+[[ ]] - used in loops for conditions
+
+- notes for shell scripting
