@@ -1,4 +1,7 @@
 (( ... )) will perform a calculation or operation and output nothing. $(( ... )) will replace the calculation with the result of it. 
-[[ ]] - used in loops for conditions
+Use <<, >>, <=, >= for comparisons here - these braces can also be used in if conditions
+
+[[ ]] - used in loops or conditions for conditional expressions
+-le, -ge, -gt, -lt, 
 
 - notes for shell scripting
